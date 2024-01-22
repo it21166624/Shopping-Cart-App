@@ -1,0 +1,16 @@
+.food-details-outer {
+    flex-direction: column;
+    height: 1100vh;
+
+}
+
+.food-details {
+    background: #efe9ef;
+    flex: 1;
+
+}
+
+.fw-600 {
+    font-weight: 600;
+    
+}
